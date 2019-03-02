@@ -1,5 +1,7 @@
 # TJAPlayerMac
 
+[![vid](https://img.youtube.com/vi/kX6Br8pdftE/0.jpg)](https://www.youtube.com/watch?v=kX6Br8pdftE)
+
 Running TJAPlayer 3 on Mac OS
 
 ## Install Wine
