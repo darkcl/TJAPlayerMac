@@ -33,3 +33,14 @@ WINEARCH=win32 WINEPREFIX=~/.wine32 winetricks dotnet35
 ```sh
 WINEPREFIX=~/.wine32 wine TJAPlayer3.exe
 ```
+
+## Taiko Force lv5
+
+In `Config.ini`, save this:
+
+```ini
+LeftRed=K018
+RightRed=K019
+LeftBlue=K015
+RightBlue=K014
+```
