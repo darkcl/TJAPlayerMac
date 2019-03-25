@@ -44,3 +44,28 @@ RightRed=K019
 LeftBlue=K015
 RightBlue=K014
 ```
+
+## Adding Songs
+
+TJA file find online usually encode with Japan (Shift JIS)
+
+Suggest to follow these steps to add songs
+
+1. Change file name of `.ogg` and `.tja` to md5 hash
+2. Change `WAVE` section of `.tja` to respective `.ogg` (Save with `Japan (Shift JIS)`)
+3. Move both files in your specify tja folder
+
+Optional Steps
+
+1. If have ura, you can merge both tja into one by changing `COURSE:Oni` to `COURSE:Edit`
+2. Add `GENRE` if you want category to work in Switch theme
+
+Sample Category
+
+- J-POP
+- アニメ
+- ボーカロイド ™ 曲
+- バラエティ
+- クラシック
+- ゲームミュージック
+- ナムコオリジナル
